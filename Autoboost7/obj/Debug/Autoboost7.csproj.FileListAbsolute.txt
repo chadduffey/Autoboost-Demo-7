@@ -1,0 +1,9 @@
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\bin\Debug\Autoboost7.exe.config
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\bin\Debug\Autoboost7.exe
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\bin\Debug\Autoboost7.pdb
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\obj\Debug\Autoboost7.Form1.resources
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\obj\Debug\Autoboost7.Properties.Resources.resources
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\obj\Debug\Autoboost7.csproj.GenerateResource.Cache
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\obj\Debug\Autoboost7.exe
+c:\users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\obj\Debug\Autoboost7.pdb
+C:\Users\chadd_000\documents\visual studio 2013\Projects\Autoboost7\Autoboost7\obj\Debug\Autoboost7.csprojResolveAssemblyReference.cache
